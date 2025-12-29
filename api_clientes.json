@@ -1,0 +1,802 @@
+[
+    {
+        "cliente_id": 1,
+        "nombre": "Ana Torres",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "ana.torres30@gmail.com",
+        "telefono": "+51 951 036 455"
+    },
+    {
+        "cliente_id": 2,
+        "nombre": "Luis Pérez",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "luis.perez21@gmail.com",
+        "telefono": "+51 906 416 517"
+    },
+    {
+        "cliente_id": 3,
+        "nombre": "María Gómez",
+        "ciudad": "Cusco",
+        "genero": "Femenino",
+        "email": "maria.gomez55@gmail.com",
+        "telefono": "+51 917 382 688"
+    },
+    {
+        "cliente_id": 4,
+        "nombre": "Carlos Díaz",
+        "ciudad": "Lima",
+        "genero": "Masculino",
+        "email": "carlos.diaz41@outlook.com",
+        "telefono": "+51 953 144 648"
+    },
+    {
+        "cliente_id": 5,
+        "nombre": "Agustina Belda Mendoza",
+        "ciudad": "Arequipa",
+        "genero": "Femenino",
+        "email": "agustina.belda.mendoza73@hotmail.com",
+        "telefono": "+51 924 367 393"
+    },
+    {
+        "cliente_id": 6,
+        "nombre": "Vasco del Diego",
+        "ciudad": "Iquitos",
+        "genero": "Masculino",
+        "email": "vasco.del.diego60@gmail.com",
+        "telefono": "+51 910 892 968"
+    },
+    {
+        "cliente_id": 7,
+        "nombre": "Lourdes Cabezas Gallart",
+        "ciudad": "Chiclayo",
+        "genero": "Femenino",
+        "email": "lourdes.cabezas.gallart95@gmail.com",
+        "telefono": "+51 960 792 812"
+    },
+    {
+        "cliente_id": 8,
+        "nombre": "Bruno Roig",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "bruno.roig96@yahoo.com",
+        "telefono": "+51 946 793 183"
+    },
+    {
+        "cliente_id": 9,
+        "nombre": "Eli del Barrera",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "eli.del.barrera37@gmail.com",
+        "telefono": "+51 958 078 321"
+    },
+    {
+        "cliente_id": 10,
+        "nombre": "Aitana Benavente Requena",
+        "ciudad": "Iquitos",
+        "genero": "Femenino",
+        "email": "aitana.benavente.requena58@gmail.com",
+        "telefono": "+51 999 200 570"
+    },
+    {
+        "cliente_id": 11,
+        "nombre": "Ester Zoraida Palomar Carrión",
+        "ciudad": "Chiclayo",
+        "genero": "Femenino",
+        "email": "ester.zoraida.palomar.carrion49@gmail.com",
+        "telefono": "+51 996 377 126"
+    },
+    {
+        "cliente_id": 12,
+        "nombre": "Juliana Escribano Vilanova",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "juliana.escribano.vilanova54@gmail.com",
+        "telefono": "+51 961 741 925"
+    },
+    {
+        "cliente_id": 13,
+        "nombre": "Tania Llopis Barberá",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "tania.llopis.barbera16@hotmail.com",
+        "telefono": "+51 967 604 335"
+    },
+    {
+        "cliente_id": 14,
+        "nombre": "Moreno del Menéndez",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "moreno.del.menendez85@gmail.com",
+        "telefono": "+51 906 582 743"
+    },
+    {
+        "cliente_id": 15,
+        "nombre": "Gabino Asensio Alcalde",
+        "ciudad": "Iquitos",
+        "genero": "Masculino",
+        "email": "gabino.asensio.alcalde59@gmail.com",
+        "telefono": "+51 985 981 049"
+    },
+    {
+        "cliente_id": 16,
+        "nombre": "Guadalupe Briones Agullo",
+        "ciudad": "Huancayo",
+        "genero": "Masculino",
+        "email": "guadalupe.briones.agullo15@hotmail.com",
+        "telefono": "+51 999 933 486"
+    },
+    {
+        "cliente_id": 17,
+        "nombre": "Armida Barros Laguna",
+        "ciudad": "Cusco",
+        "genero": "Femenino",
+        "email": "armida.barros.laguna25@gmail.com",
+        "telefono": "+51 941 899 519"
+    },
+    {
+        "cliente_id": 18,
+        "nombre": "Brígida Tolosa Barceló",
+        "ciudad": "Chiclayo",
+        "genero": "Femenino",
+        "email": "brigida.tolosa.barcelo37@hotmail.com",
+        "telefono": "+51 901 952 324"
+    },
+    {
+        "cliente_id": 19,
+        "nombre": "Remedios Alsina-Sandoval",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "remedios.alsina-sandoval59@gmail.com",
+        "telefono": "+51 968 172 592"
+    },
+    {
+        "cliente_id": 20,
+        "nombre": "Severo Roig Cañete",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "severo.roig.cañete24@outlook.com",
+        "telefono": "+51 986 762 924"
+    },
+    {
+        "cliente_id": 21,
+        "nombre": "Jacinto del Huguet",
+        "ciudad": "Huancayo",
+        "genero": "Masculino",
+        "email": "jacinto.del.huguet45@hotmail.com",
+        "telefono": "+51 917 267 251"
+    },
+    {
+        "cliente_id": 22,
+        "nombre": "Geraldo Cerro Peñas",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "geraldo.cerro.peñas64@outlook.com",
+        "telefono": "+51 900 553 016"
+    },
+    {
+        "cliente_id": 23,
+        "nombre": "Natividad Figuerola Duarte",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "natividad.figuerola.duarte35@yahoo.com",
+        "telefono": "+51 931 468 747"
+    },
+    {
+        "cliente_id": 24,
+        "nombre": "Remedios Blanch Leal",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "remedios.blanch.leal31@gmail.com",
+        "telefono": "+51 992 495 568"
+    },
+    {
+        "cliente_id": 25,
+        "nombre": "Lucio Quevedo Montes",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "lucio.quevedo.montes79@hotmail.com",
+        "telefono": "+51 979 540 955"
+    },
+    {
+        "cliente_id": 26,
+        "nombre": "Lourdes Salamanca",
+        "ciudad": "Chiclayo",
+        "genero": "Femenino",
+        "email": "lourdes.salamanca97@yahoo.com",
+        "telefono": "+51 933 108 483"
+    },
+    {
+        "cliente_id": 27,
+        "nombre": "Leire Natalia Reina Marin",
+        "ciudad": "Cusco",
+        "genero": "Femenino",
+        "email": "leire.natalia.reina.marin58@hotmail.com",
+        "telefono": "+51 937 886 331"
+    },
+    {
+        "cliente_id": 28,
+        "nombre": "Eva María del Casas",
+        "ciudad": "Huancayo",
+        "genero": "Femenino",
+        "email": "eva.maria.del.casas89@gmail.com",
+        "telefono": "+51 955 607 156"
+    },
+    {
+        "cliente_id": 29,
+        "nombre": "Jessica Atienza Tamarit",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "jessica.atienza.tamarit37@outlook.com",
+        "telefono": "+51 968 997 917"
+    },
+    {
+        "cliente_id": 30,
+        "nombre": "Aura Piñol Prat",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "aura.piñol.prat15@hotmail.com",
+        "telefono": "+51 903 361 598"
+    },
+    {
+        "cliente_id": 31,
+        "nombre": "Anna Andreu-Ávila",
+        "ciudad": "Chiclayo",
+        "genero": "Femenino",
+        "email": "anna.andreu-avila34@gmail.com",
+        "telefono": "+51 900 422 610"
+    },
+    {
+        "cliente_id": 32,
+        "nombre": "Marta Gaya Lara",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "marta.gaya.lara62@gmail.com",
+        "telefono": "+51 949 877 843"
+    },
+    {
+        "cliente_id": 33,
+        "nombre": "Ciriaco Pol Novoa",
+        "ciudad": "Trujillo",
+        "genero": "Masculino",
+        "email": "ciriaco.pol.novoa75@gmail.com",
+        "telefono": "+51 985 309 942"
+    },
+    {
+        "cliente_id": 34,
+        "nombre": "Eva Adadia Seguí",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "eva.adadia.segui98@yahoo.com",
+        "telefono": "+51 918 112 631"
+    },
+    {
+        "cliente_id": 35,
+        "nombre": "Leopoldo Díez Rivera",
+        "ciudad": "Lima",
+        "genero": "Masculino",
+        "email": "leopoldo.diez.rivera81@outlook.com",
+        "telefono": "+51 988 645 656"
+    },
+    {
+        "cliente_id": 36,
+        "nombre": "Marisa Enríquez",
+        "ciudad": "Iquitos",
+        "genero": "Femenino",
+        "email": "marisa.enriquez60@gmail.com",
+        "telefono": "+51 914 066 276"
+    },
+    {
+        "cliente_id": 37,
+        "nombre": "Noa Palau Noriega",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "noa.palau.noriega13@gmail.com",
+        "telefono": "+51 906 116 555"
+    },
+    {
+        "cliente_id": 38,
+        "nombre": "Camilo Gilabert Olivera",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "camilo.gilabert.olivera35@gmail.com",
+        "telefono": "+51 949 471 934"
+    },
+    {
+        "cliente_id": 39,
+        "nombre": "Héctor Talavera Guzman",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "hector.talavera.guzman22@hotmail.com",
+        "telefono": "+51 977 084 733"
+    },
+    {
+        "cliente_id": 40,
+        "nombre": "Esperanza Nieto Borrás",
+        "ciudad": "Chiclayo",
+        "genero": "Femenino",
+        "email": "esperanza.nieto.borras47@gmail.com",
+        "telefono": "+51 977 640 518"
+    },
+    {
+        "cliente_id": 41,
+        "nombre": "Bautista Teodosio Jove Parra",
+        "ciudad": "Cusco",
+        "genero": "Masculino",
+        "email": "bautista.teodosio.jove.parra95@gmail.com",
+        "telefono": "+51 953 175 520"
+    },
+    {
+        "cliente_id": 42,
+        "nombre": "María Teresa Mora Mateo",
+        "ciudad": "Chiclayo",
+        "genero": "Femenino",
+        "email": "maria.teresa.mora.mateo86@hotmail.com",
+        "telefono": "+51 977 364 827"
+    },
+    {
+        "cliente_id": 43,
+        "nombre": "Gerónimo Ayuso Calleja",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "geronimo.ayuso.calleja68@gmail.com",
+        "telefono": "+51 968 119 703"
+    },
+    {
+        "cliente_id": 44,
+        "nombre": "Zoraida Escamilla-Piñeiro",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "zoraida.escamilla-piñeiro17@gmail.com",
+        "telefono": "+51 947 165 355"
+    },
+    {
+        "cliente_id": 45,
+        "nombre": "Natividad Canales Tello",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "natividad.canales.tello94@outlook.com",
+        "telefono": "+51 900 793 525"
+    },
+    {
+        "cliente_id": 46,
+        "nombre": "Cloe Edelmira Naranjo Morell",
+        "ciudad": "Iquitos",
+        "genero": "Femenino",
+        "email": "cloe.edelmira.naranjo.morell68@gmail.com",
+        "telefono": "+51 941 392 998"
+    },
+    {
+        "cliente_id": 47,
+        "nombre": "Sabina Lumbreras Godoy",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "sabina.lumbreras.godoy64@example.com",
+        "telefono": "+51 912 818 604"
+    },
+    {
+        "cliente_id": 48,
+        "nombre": "Gonzalo Barrio Marin",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "gonzalo.barrio.marin66@example.com",
+        "telefono": "+51 915 306 933"
+    },
+    {
+        "cliente_id": 49,
+        "nombre": "César Iriarte Llabrés",
+        "ciudad": "Iquitos",
+        "genero": "Masculino",
+        "email": "cesar.iriarte.llabres19@hotmail.com",
+        "telefono": "+51 905 276 195"
+    },
+    {
+        "cliente_id": 50,
+        "nombre": "Isabela Solís-Alcalde",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "isabela.solis-alcalde15@yahoo.com",
+        "telefono": "+51 921 296 654"
+    },
+    {
+        "cliente_id": 51,
+        "nombre": "Chuy Domínguez Amorós",
+        "ciudad": "Iquitos",
+        "genero": "Masculino",
+        "email": "chuy.dominguez.amoros78@gmail.com",
+        "telefono": "+51 944 838 106"
+    },
+    {
+        "cliente_id": 52,
+        "nombre": "Matías Zabaleta Sureda",
+        "ciudad": "Piura",
+        "genero": "Masculino",
+        "email": "matias.zabaleta.sureda38@gmail.com",
+        "telefono": "+51 946 936 783"
+    },
+    {
+        "cliente_id": 53,
+        "nombre": "Pablo Eutimio Herrero Granados",
+        "ciudad": "Lima",
+        "genero": "Masculino",
+        "email": "pablo.eutimio.herrero.granados80@gmail.com",
+        "telefono": "+51 986 811 492"
+    },
+    {
+        "cliente_id": 54,
+        "nombre": "Mohamed Cerro Huguet",
+        "ciudad": "Huancayo",
+        "genero": "Masculino",
+        "email": "mohamed.cerro.huguet36@hotmail.com",
+        "telefono": "+51 993 056 171"
+    },
+    {
+        "cliente_id": 55,
+        "nombre": "Che Falcó Saez",
+        "ciudad": "Iquitos",
+        "genero": "Masculino",
+        "email": "che.falco.saez24@example.com",
+        "telefono": "+51 926 047 589"
+    },
+    {
+        "cliente_id": 56,
+        "nombre": "Rosalinda Losa Blanch",
+        "ciudad": "Arequipa",
+        "genero": "Femenino",
+        "email": "rosalinda.losa.blanch71@example.com",
+        "telefono": "+51 953 828 794"
+    },
+    {
+        "cliente_id": 57,
+        "nombre": "Ani de Losa",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "ani.de.losa85@hotmail.com",
+        "telefono": "+51 976 675 585"
+    },
+    {
+        "cliente_id": 58,
+        "nombre": "Diego Oller Montalbán",
+        "ciudad": "Huancayo",
+        "genero": "Masculino",
+        "email": "diego.oller.montalban28@gmail.com",
+        "telefono": "+51 972 923 097"
+    },
+    {
+        "cliente_id": 59,
+        "nombre": "Feliciana Navarrete Olmedo",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "feliciana.navarrete.olmedo91@gmail.com",
+        "telefono": "+51 947 478 716"
+    },
+    {
+        "cliente_id": 60,
+        "nombre": "Melchor del Escobar",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "melchor.del.escobar69@gmail.com",
+        "telefono": "+51 966 817 448"
+    },
+    {
+        "cliente_id": 61,
+        "nombre": "Fabiola Chita Ramírez Zamorano",
+        "ciudad": "Arequipa",
+        "genero": "Femenino",
+        "email": "fabiola.chita.ramirez.zamorano46@gmail.com",
+        "telefono": "+51 937 852 951"
+    },
+    {
+        "cliente_id": 62,
+        "nombre": "Goyo Adolfo Vallés Andres",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "goyo.adolfo.valles.andres83@gmail.com",
+        "telefono": "+51 916 498 819"
+    },
+    {
+        "cliente_id": 63,
+        "nombre": "Jose Carlos Varela Pombo",
+        "ciudad": "Piura",
+        "genero": "Masculino",
+        "email": "jose.carlos.varela.pombo62@gmail.com",
+        "telefono": "+51 918 814 668"
+    },
+    {
+        "cliente_id": 64,
+        "nombre": "Ainoa Gargallo Pinedo",
+        "ciudad": "Huancayo",
+        "genero": "Femenino",
+        "email": "ainoa.gargallo.pinedo10@outlook.com",
+        "telefono": "+51 910 831 063"
+    },
+    {
+        "cliente_id": 65,
+        "nombre": "Rosario Gibert Vidal",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "rosario.gibert.vidal58@outlook.com",
+        "telefono": "+51 908 434 568"
+    },
+    {
+        "cliente_id": 66,
+        "nombre": "Edgardo Robledo Piquer",
+        "ciudad": "Lima",
+        "genero": "Masculino",
+        "email": "edgardo.robledo.piquer51@gmail.com",
+        "telefono": "+51 907 909 433"
+    },
+    {
+        "cliente_id": 67,
+        "nombre": "Olalla Carbó Piñol",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "olalla.carbo.piñol96@yahoo.com",
+        "telefono": "+51 982 191 085"
+    },
+    {
+        "cliente_id": 68,
+        "nombre": "Ainara Jurado Soto",
+        "ciudad": "Huancayo",
+        "genero": "Femenino",
+        "email": "ainara.jurado.soto74@gmail.com",
+        "telefono": "+51 973 261 159"
+    },
+    {
+        "cliente_id": 69,
+        "nombre": "Fito Frías Francisco",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "fito.frias.francisco43@example.com",
+        "telefono": "+51 908 717 429"
+    },
+    {
+        "cliente_id": 70,
+        "nombre": "Perla Dalmau Llorente",
+        "ciudad": "Arequipa",
+        "genero": "Femenino",
+        "email": "perla.dalmau.llorente27@yahoo.com",
+        "telefono": "+51 910 082 146"
+    },
+    {
+        "cliente_id": 71,
+        "nombre": "Moreno Valentín Acuña",
+        "ciudad": "Trujillo",
+        "genero": "Masculino",
+        "email": "moreno.valentin.acuña68@example.com",
+        "telefono": "+51 901 790 181"
+    },
+    {
+        "cliente_id": 72,
+        "nombre": "Hortensia Menéndez Dueñas",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "hortensia.menendez.dueñas50@gmail.com",
+        "telefono": "+51 925 824 068"
+    },
+    {
+        "cliente_id": 73,
+        "nombre": "Miguel Barceló Navarrete",
+        "ciudad": "Iquitos",
+        "genero": "Masculino",
+        "email": "miguel.barcelo.navarrete23@gmail.com",
+        "telefono": "+51 941 468 640"
+    },
+    {
+        "cliente_id": 74,
+        "nombre": "Amando Andrade Carro",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "amando.andrade.carro16@outlook.com",
+        "telefono": "+51 958 525 026"
+    },
+    {
+        "cliente_id": 75,
+        "nombre": "Tristán Rius Escamilla",
+        "ciudad": "Piura",
+        "genero": "Masculino",
+        "email": "tristan.rius.escamilla35@hotmail.com",
+        "telefono": "+51 929 630 301"
+    },
+    {
+        "cliente_id": 76,
+        "nombre": "Teodoro Pomares Narváez",
+        "ciudad": "Lima",
+        "genero": "Masculino",
+        "email": "teodoro.pomares.narvaez57@hotmail.com",
+        "telefono": "+51 917 464 331"
+    },
+    {
+        "cliente_id": 77,
+        "nombre": "Gerardo Tejero Herrera",
+        "ciudad": "Piura",
+        "genero": "Masculino",
+        "email": "gerardo.tejero.herrera56@gmail.com",
+        "telefono": "+51 947 110 497"
+    },
+    {
+        "cliente_id": 78,
+        "nombre": "Amalia Tamayo Rovira",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "amalia.tamayo.rovira29@hotmail.com",
+        "telefono": "+51 922 051 338"
+    },
+    {
+        "cliente_id": 79,
+        "nombre": "Fortunata Pedraza Ferrando",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "fortunata.pedraza.ferrando31@gmail.com",
+        "telefono": "+51 993 751 038"
+    },
+    {
+        "cliente_id": 80,
+        "nombre": "Leocadio Segovia Valls",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "leocadio.segovia.valls92@hotmail.com",
+        "telefono": "+51 951 150 523"
+    },
+    {
+        "cliente_id": 81,
+        "nombre": "Noelia Goicoechea Llabrés",
+        "ciudad": "Piura",
+        "genero": "Femenino",
+        "email": "noelia.goicoechea.llabres58@hotmail.com",
+        "telefono": "+51 969 695 900"
+    },
+    {
+        "cliente_id": 82,
+        "nombre": "Donato Garcés Olmedo",
+        "ciudad": "Trujillo",
+        "genero": "Masculino",
+        "email": "donato.garces.olmedo90@gmail.com",
+        "telefono": "+51 927 911 792"
+    },
+    {
+        "cliente_id": 83,
+        "nombre": "Mateo Tudela",
+        "ciudad": "Lima",
+        "genero": "Masculino",
+        "email": "mateo.tudela96@gmail.com",
+        "telefono": "+51 949 137 203"
+    },
+    {
+        "cliente_id": 84,
+        "nombre": "Marco Almansa-Cabanillas",
+        "ciudad": "Arequipa",
+        "genero": "Masculino",
+        "email": "marco.almansa-cabanillas94@hotmail.com",
+        "telefono": "+51 955 112 674"
+    },
+    {
+        "cliente_id": 85,
+        "nombre": "Georgina Herrero Codina",
+        "ciudad": "Iquitos",
+        "genero": "Femenino",
+        "email": "georgina.herrero.codina24@hotmail.com",
+        "telefono": "+51 978 951 123"
+    },
+    {
+        "cliente_id": 86,
+        "nombre": "Leticia Carrión Arrieta",
+        "ciudad": "Arequipa",
+        "genero": "Femenino",
+        "email": "leticia.carrion.arrieta65@hotmail.com",
+        "telefono": "+51 992 502 833"
+    },
+    {
+        "cliente_id": 87,
+        "nombre": "Blas Baena Aliaga",
+        "ciudad": "Lima",
+        "genero": "Masculino",
+        "email": "blas.baena.aliaga48@gmail.com",
+        "telefono": "+51 938 485 074"
+    },
+    {
+        "cliente_id": 88,
+        "nombre": "Eva Ordóñez",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "eva.ordoñez93@hotmail.com",
+        "telefono": "+51 963 802 008"
+    },
+    {
+        "cliente_id": 89,
+        "nombre": "Encarnita Palomares Acedo",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "encarnita.palomares.acedo15@outlook.com",
+        "telefono": "+51 963 912 294"
+    },
+    {
+        "cliente_id": 90,
+        "nombre": "Domitila Oller",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "domitila.oller51@gmail.com",
+        "telefono": "+51 945 287 404"
+    },
+    {
+        "cliente_id": 91,
+        "nombre": "Gabriela Jordá-Pedraza",
+        "ciudad": "Iquitos",
+        "genero": "Femenino",
+        "email": "gabriela.jorda-pedraza71@gmail.com",
+        "telefono": "+51 914 644 419"
+    },
+    {
+        "cliente_id": 92,
+        "nombre": "Emperatriz Alba-Aragonés",
+        "ciudad": "Trujillo",
+        "genero": "Femenino",
+        "email": "emperatriz.alba-aragones74@gmail.com",
+        "telefono": "+51 957 393 924"
+    },
+    {
+        "cliente_id": 93,
+        "nombre": "Dorita Soriano Chico",
+        "ciudad": "Huancayo",
+        "genero": "Femenino",
+        "email": "dorita.soriano.chico68@yahoo.com",
+        "telefono": "+51 918 983 596"
+    },
+    {
+        "cliente_id": 94,
+        "nombre": "Poncio Azcona Molina",
+        "ciudad": "Iquitos",
+        "genero": "Masculino",
+        "email": "poncio.azcona.molina34@gmail.com",
+        "telefono": "+51 976 157 671"
+    },
+    {
+        "cliente_id": 95,
+        "nombre": "Amaya Tomé Muro",
+        "ciudad": "Cusco",
+        "genero": "Femenino",
+        "email": "amaya.tome.muro65@gmail.com",
+        "telefono": "+51 910 258 966"
+    },
+    {
+        "cliente_id": 96,
+        "nombre": "María Ángeles Carmina Andreu Cabeza",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "maria.angeles.carmina.andreu.cabeza49@outlook.com",
+        "telefono": "+51 979 778 699"
+    },
+    {
+        "cliente_id": 97,
+        "nombre": "Abel Marti Sanmiguel",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "abel.marti.sanmiguel68@hotmail.com",
+        "telefono": "+51 986 001 210"
+    },
+    {
+        "cliente_id": 98,
+        "nombre": "Genoveva Larrea Ángel",
+        "ciudad": "Lima",
+        "genero": "Femenino",
+        "email": "genoveva.larrea.angel48@gmail.com",
+        "telefono": "+51 947 952 449"
+    },
+    {
+        "cliente_id": 99,
+        "nombre": "Lalo Paz Nogués",
+        "ciudad": "Chiclayo",
+        "genero": "Masculino",
+        "email": "lalo.paz.nogues65@hotmail.com",
+        "telefono": "+51 949 404 505"
+    },
+    {
+        "cliente_id": 100,
+        "nombre": "Iris del Valcárcel",
+        "ciudad": "Cusco",
+        "genero": "Femenino",
+        "email": "iris.del.valcarcel67@hotmail.com",
+        "telefono": "+51 975 647 556"
+    }
+]
