@@ -1,0 +1,702 @@
+[
+    {
+        "cliente_id": 1,
+        "nombre": "Ana Torres",
+        "ciudad": "Lima",
+        "email": "riosnarciso@example.org",
+        "telefono": "+51 967 928 757"
+    },
+    {
+        "cliente_id": 2,
+        "nombre": "Luis Pérez",
+        "ciudad": "Arequipa",
+        "email": "jaumetomas@example.com",
+        "telefono": "+51 930 581 169"
+    },
+    {
+        "cliente_id": 3,
+        "nombre": "María Gómez",
+        "ciudad": "Cusco",
+        "email": "fteruel@example.org",
+        "telefono": "+51 943 741 865"
+    },
+    {
+        "cliente_id": 4,
+        "nombre": "Carlos Díaz",
+        "ciudad": "Lima",
+        "email": "chustome@example.com",
+        "telefono": "+51 945 435 382"
+    },
+    {
+        "cliente_id": 5,
+        "nombre": "Macario Cabello Balaguer",
+        "ciudad": "Iquitos",
+        "email": "pvillalobos@example.com",
+        "telefono": "+51 964 745 073"
+    },
+    {
+        "cliente_id": 6,
+        "nombre": "Matías Acevedo Morillo",
+        "ciudad": "Cusco",
+        "email": "francisco24@example.net",
+        "telefono": "+51 995 973 418"
+    },
+    {
+        "cliente_id": 7,
+        "nombre": "Fidel Cazorla Valcárcel",
+        "ciudad": "Arequipa",
+        "email": "atejada@example.com",
+        "telefono": "+51 934 141 765"
+    },
+    {
+        "cliente_id": 8,
+        "nombre": "Clarisa Castrillo Escribano",
+        "ciudad": "Cusco",
+        "email": "beatriz88@example.net",
+        "telefono": "+51 969 268 815"
+    },
+    {
+        "cliente_id": 9,
+        "nombre": "Cristian Varela Bru",
+        "ciudad": "Trujillo",
+        "email": "lorenzosegarra@example.org",
+        "telefono": "+51 940 859 020"
+    },
+    {
+        "cliente_id": 10,
+        "nombre": "Saturnina Mascaró Torrent",
+        "ciudad": "Chiclayo",
+        "email": "alex91@example.com",
+        "telefono": "+51 937 447 772"
+    },
+    {
+        "cliente_id": 11,
+        "nombre": "Bartolomé de Mendizábal",
+        "ciudad": "Lima",
+        "email": "bgamez@example.org",
+        "telefono": "+51 906 176 012"
+    },
+    {
+        "cliente_id": 12,
+        "nombre": "Lucía Batalla Arias",
+        "ciudad": "Cusco",
+        "email": "marinicodemo@example.org",
+        "telefono": "+51 965 171 683"
+    },
+    {
+        "cliente_id": 13,
+        "nombre": "Margarita Almeida-Vazquez",
+        "ciudad": "Arequipa",
+        "email": "vjuan@example.org",
+        "telefono": "+51 986 172 673"
+    },
+    {
+        "cliente_id": 14,
+        "nombre": "Noemí Jurado-Alemán",
+        "ciudad": "Trujillo",
+        "email": "arturotorrecilla@example.com",
+        "telefono": "+51 990 093 768"
+    },
+    {
+        "cliente_id": 15,
+        "nombre": "Reyes de Carrasco",
+        "ciudad": "Huancayo",
+        "email": "wpina@example.net",
+        "telefono": "+51 980 338 314"
+    },
+    {
+        "cliente_id": 16,
+        "nombre": "Fortunata Agudo Garzón",
+        "ciudad": "Trujillo",
+        "email": "eulaliapenalver@example.com",
+        "telefono": "+51 952 897 129"
+    },
+    {
+        "cliente_id": 17,
+        "nombre": "Emilia Alba Lamas",
+        "ciudad": "Piura",
+        "email": "gibertbienvenida@example.org",
+        "telefono": "+51 923 322 929"
+    },
+    {
+        "cliente_id": 18,
+        "nombre": "Lupita Lastra Carrillo",
+        "ciudad": "Arequipa",
+        "email": "elodiarosales@example.com",
+        "telefono": "+51 932 734 525"
+    },
+    {
+        "cliente_id": 19,
+        "nombre": "Jose Luis Manzano Castelló",
+        "ciudad": "Piura",
+        "email": "eutimio23@example.org",
+        "telefono": "+51 935 620 069"
+    },
+    {
+        "cliente_id": 20,
+        "nombre": "Primitiva Jaume Pizarro",
+        "ciudad": "Lima",
+        "email": "sarce@example.com",
+        "telefono": "+51 951 491 793"
+    },
+    {
+        "cliente_id": 21,
+        "nombre": "Óscar Abad Miralles",
+        "ciudad": "Iquitos",
+        "email": "gtrillo@example.com",
+        "telefono": "+51 915 934 158"
+    },
+    {
+        "cliente_id": 22,
+        "nombre": "Alma Cid Becerra",
+        "ciudad": "Arequipa",
+        "email": "muletariadna@example.org",
+        "telefono": "+51 976 847 795"
+    },
+    {
+        "cliente_id": 23,
+        "nombre": "Olalla Sacristán Garcés",
+        "ciudad": "Piura",
+        "email": "sigfrido93@example.org",
+        "telefono": "+51 977 035 714"
+    },
+    {
+        "cliente_id": 24,
+        "nombre": "Violeta Palacios Barberá",
+        "ciudad": "Trujillo",
+        "email": "isabela37@example.com",
+        "telefono": "+51 994 716 980"
+    },
+    {
+        "cliente_id": 25,
+        "nombre": "Angelino Haro Carvajal",
+        "ciudad": "Arequipa",
+        "email": "ycanet@example.com",
+        "telefono": "+51 930 588 105"
+    },
+    {
+        "cliente_id": 26,
+        "nombre": "Mirta Arana Talavera",
+        "ciudad": "Trujillo",
+        "email": "jordiquesada@example.org",
+        "telefono": "+51 933 494 756"
+    },
+    {
+        "cliente_id": 27,
+        "nombre": "Abraham Rivera Ocaña",
+        "ciudad": "Arequipa",
+        "email": "rochajonatan@example.com",
+        "telefono": "+51 982 897 218"
+    },
+    {
+        "cliente_id": 28,
+        "nombre": "Jordana Escribano Alcántara",
+        "ciudad": "Cusco",
+        "email": "anayafrancisco@example.org",
+        "telefono": "+51 988 967 866"
+    },
+    {
+        "cliente_id": 29,
+        "nombre": "Agapito Pedrero-Sierra",
+        "ciudad": "Piura",
+        "email": "aniguzman@example.com",
+        "telefono": "+51 949 726 720"
+    },
+    {
+        "cliente_id": 30,
+        "nombre": "Luciano Portero Cuervo",
+        "ciudad": "Huancayo",
+        "email": "dmenendez@example.net",
+        "telefono": "+51 953 660 453"
+    },
+    {
+        "cliente_id": 31,
+        "nombre": "Juan Luis Roca Casanovas",
+        "ciudad": "Arequipa",
+        "email": "americo13@example.org",
+        "telefono": "+51 996 639 446"
+    },
+    {
+        "cliente_id": 32,
+        "nombre": "Heliodoro Reyes Sola Catalán",
+        "ciudad": "Piura",
+        "email": "azucenaposada@example.com",
+        "telefono": "+51 914 300 098"
+    },
+    {
+        "cliente_id": 33,
+        "nombre": "Modesta Larrañaga Barrio",
+        "ciudad": "Huancayo",
+        "email": "jose-miguel75@example.net",
+        "telefono": "+51 927 434 556"
+    },
+    {
+        "cliente_id": 34,
+        "nombre": "Rebeca Romero Moreno",
+        "ciudad": "Iquitos",
+        "email": "kfernandez@example.net",
+        "telefono": "+51 940 183 855"
+    },
+    {
+        "cliente_id": 35,
+        "nombre": "Guiomar Vilaplana",
+        "ciudad": "Chiclayo",
+        "email": "enrique47@example.com",
+        "telefono": "+51 942 619 667"
+    },
+    {
+        "cliente_id": 36,
+        "nombre": "Emigdio Pepe Soriano Menendez",
+        "ciudad": "Lima",
+        "email": "reinajuan-antonio@example.com",
+        "telefono": "+51 946 993 424"
+    },
+    {
+        "cliente_id": 37,
+        "nombre": "Quique Catalán Gomila",
+        "ciudad": "Lima",
+        "email": "wpeiro@example.org",
+        "telefono": "+51 930 666 220"
+    },
+    {
+        "cliente_id": 38,
+        "nombre": "Rubén Villalonga-Dominguez",
+        "ciudad": "Trujillo",
+        "email": "rodaadora@example.com",
+        "telefono": "+51 929 997 186"
+    },
+    {
+        "cliente_id": 39,
+        "nombre": "Daniela Gámez-Almansa",
+        "ciudad": "Piura",
+        "email": "ptenorio@example.net",
+        "telefono": "+51 923 121 738"
+    },
+    {
+        "cliente_id": 40,
+        "nombre": "Teófila Requena Salvà",
+        "ciudad": "Piura",
+        "email": "mgonzalez@example.com",
+        "telefono": "+51 950 517 926"
+    },
+    {
+        "cliente_id": 41,
+        "nombre": "Germán Asenjo Cañas",
+        "ciudad": "Iquitos",
+        "email": "olivia65@example.com",
+        "telefono": "+51 925 104 796"
+    },
+    {
+        "cliente_id": 42,
+        "nombre": "Estela Jimenez-Escobar",
+        "ciudad": "Piura",
+        "email": "andrescloe@example.org",
+        "telefono": "+51 943 176 821"
+    },
+    {
+        "cliente_id": 43,
+        "nombre": "Almudena del Porras",
+        "ciudad": "Trujillo",
+        "email": "roquerius@example.org",
+        "telefono": "+51 986 404 428"
+    },
+    {
+        "cliente_id": 44,
+        "nombre": "Benigno Peiró Tamarit",
+        "ciudad": "Chiclayo",
+        "email": "juan40@example.com",
+        "telefono": "+51 935 767 685"
+    },
+    {
+        "cliente_id": 45,
+        "nombre": "América Mascaró Sans",
+        "ciudad": "Huancayo",
+        "email": "palmaclementina@example.org",
+        "telefono": "+51 922 517 195"
+    },
+    {
+        "cliente_id": 46,
+        "nombre": "Maxi Feliciano Márquez Briones",
+        "ciudad": "Piura",
+        "email": "gabaldonprudencio@example.com",
+        "telefono": "+51 962 742 165"
+    },
+    {
+        "cliente_id": 47,
+        "nombre": "Desiderio de Comas",
+        "ciudad": "Chiclayo",
+        "email": "rosario29@example.net",
+        "telefono": "+51 900 881 710"
+    },
+    {
+        "cliente_id": 48,
+        "nombre": "Nydia Nevado Salinas",
+        "ciudad": "Lima",
+        "email": "ribesvidal@example.net",
+        "telefono": "+51 949 970 043"
+    },
+    {
+        "cliente_id": 49,
+        "nombre": "Mónica Clavero Amo",
+        "ciudad": "Arequipa",
+        "email": "yescamilla@example.net",
+        "telefono": "+51 987 285 409"
+    },
+    {
+        "cliente_id": 50,
+        "nombre": "Javier Montes Álvaro",
+        "ciudad": "Arequipa",
+        "email": "hperal@example.net",
+        "telefono": "+51 901 090 820"
+    },
+    {
+        "cliente_id": 51,
+        "nombre": "Adela Benavente Vera",
+        "ciudad": "Chiclayo",
+        "email": "uayllon@example.com",
+        "telefono": "+51 912 639 061"
+    },
+    {
+        "cliente_id": 52,
+        "nombre": "Carlota Ripoll Peiró",
+        "ciudad": "Arequipa",
+        "email": "aniexposito@example.org",
+        "telefono": "+51 924 682 466"
+    },
+    {
+        "cliente_id": 53,
+        "nombre": "Lidia Bejarano Prada",
+        "ciudad": "Piura",
+        "email": "eveliaperal@example.org",
+        "telefono": "+51 952 205 328"
+    },
+    {
+        "cliente_id": 54,
+        "nombre": "Delia de Miguel",
+        "ciudad": "Lima",
+        "email": "juansedano@example.net",
+        "telefono": "+51 914 974 209"
+    },
+    {
+        "cliente_id": 55,
+        "nombre": "Jose Ramón Checa",
+        "ciudad": "Iquitos",
+        "email": "sancho76@example.org",
+        "telefono": "+51 937 540 746"
+    },
+    {
+        "cliente_id": 56,
+        "nombre": "Humberto Mata Correa",
+        "ciudad": "Trujillo",
+        "email": "josefina78@example.net",
+        "telefono": "+51 955 998 667"
+    },
+    {
+        "cliente_id": 57,
+        "nombre": "Juan Bautista Julián Fuertes",
+        "ciudad": "Chiclayo",
+        "email": "warce@example.com",
+        "telefono": "+51 973 050 049"
+    },
+    {
+        "cliente_id": 58,
+        "nombre": "Cesar Aranda Mora",
+        "ciudad": "Chiclayo",
+        "email": "genovevaanguita@example.net",
+        "telefono": "+51 917 897 786"
+    },
+    {
+        "cliente_id": 59,
+        "nombre": "América Lara Montero",
+        "ciudad": "Arequipa",
+        "email": "yalsina@example.net",
+        "telefono": "+51 923 814 335"
+    },
+    {
+        "cliente_id": 60,
+        "nombre": "Sonia Ángel Arranz",
+        "ciudad": "Arequipa",
+        "email": "valentinajurado@example.net",
+        "telefono": "+51 966 898 180"
+    },
+    {
+        "cliente_id": 61,
+        "nombre": "Melisa Villalba Arias",
+        "ciudad": "Trujillo",
+        "email": "prudencio48@example.net",
+        "telefono": "+51 993 048 672"
+    },
+    {
+        "cliente_id": 62,
+        "nombre": "Chucho Valera Llopis",
+        "ciudad": "Arequipa",
+        "email": "cbarroso@example.net",
+        "telefono": "+51 904 044 507"
+    },
+    {
+        "cliente_id": 63,
+        "nombre": "Óscar Valenciano-Morell",
+        "ciudad": "Huancayo",
+        "email": "cletogelabert@example.com",
+        "telefono": "+51 925 193 224"
+    },
+    {
+        "cliente_id": 64,
+        "nombre": "Irene Marcos Almansa",
+        "ciudad": "Huancayo",
+        "email": "arturoporcel@example.net",
+        "telefono": "+51 941 751 071"
+    },
+    {
+        "cliente_id": 65,
+        "nombre": "Horacio Che Cuadrado Acevedo",
+        "ciudad": "Lima",
+        "email": "dbecerra@example.net",
+        "telefono": "+51 969 549 853"
+    },
+    {
+        "cliente_id": 66,
+        "nombre": "Gonzalo Donoso Domingo",
+        "ciudad": "Trujillo",
+        "email": "calvetjenny@example.com",
+        "telefono": "+51 993 309 207"
+    },
+    {
+        "cliente_id": 67,
+        "nombre": "Anselma Roma Carrillo",
+        "ciudad": "Arequipa",
+        "email": "ricoexposito@example.net",
+        "telefono": "+51 913 634 724"
+    },
+    {
+        "cliente_id": 68,
+        "nombre": "Isabela Carranza Borrego",
+        "ciudad": "Iquitos",
+        "email": "francisco84@example.org",
+        "telefono": "+51 981 140 364"
+    },
+    {
+        "cliente_id": 69,
+        "nombre": "Dominga Aura Vaquero Téllez",
+        "ciudad": "Trujillo",
+        "email": "juareznayara@example.org",
+        "telefono": "+51 918 906 165"
+    },
+    {
+        "cliente_id": 70,
+        "nombre": "Modesta Ortuño Bejarano",
+        "ciudad": "Trujillo",
+        "email": "martinalopez@example.org",
+        "telefono": "+51 975 995 731"
+    },
+    {
+        "cliente_id": 71,
+        "nombre": "Pilar Iniesta Cantero",
+        "ciudad": "Lima",
+        "email": "susanaguitart@example.org",
+        "telefono": "+51 953 073 424"
+    },
+    {
+        "cliente_id": 72,
+        "nombre": "Kike Delgado Ávila",
+        "ciudad": "Chiclayo",
+        "email": "paulinarosello@example.net",
+        "telefono": "+51 952 665 493"
+    },
+    {
+        "cliente_id": 73,
+        "nombre": "Jose Carlos Heraclio Quero Miguel",
+        "ciudad": "Chiclayo",
+        "email": "jose-miguel71@example.org",
+        "telefono": "+51 924 756 733"
+    },
+    {
+        "cliente_id": 74,
+        "nombre": "Jose Angel Iborra Perelló",
+        "ciudad": "Cusco",
+        "email": "egomila@example.com",
+        "telefono": "+51 915 073 078"
+    },
+    {
+        "cliente_id": 75,
+        "nombre": "Rómulo Santamaría Morell",
+        "ciudad": "Lima",
+        "email": "nereida19@example.org",
+        "telefono": "+51 959 513 281"
+    },
+    {
+        "cliente_id": 76,
+        "nombre": "Isaac López Feijoo",
+        "ciudad": "Huancayo",
+        "email": "landavictorino@example.org",
+        "telefono": "+51 933 601 021"
+    },
+    {
+        "cliente_id": 77,
+        "nombre": "Raúl Manuel Alsina",
+        "ciudad": "Lima",
+        "email": "adriana95@example.org",
+        "telefono": "+51 975 622 797"
+    },
+    {
+        "cliente_id": 78,
+        "nombre": "Brígida Atienza Roura",
+        "ciudad": "Trujillo",
+        "email": "pcaceres@example.com",
+        "telefono": "+51 910 959 102"
+    },
+    {
+        "cliente_id": 79,
+        "nombre": "Vinicio del Bustamante",
+        "ciudad": "Iquitos",
+        "email": "ayusolucio@example.org",
+        "telefono": "+51 945 639 835"
+    },
+    {
+        "cliente_id": 80,
+        "nombre": "Maximiliano Aragón Montenegro",
+        "ciudad": "Iquitos",
+        "email": "baudelioalbero@example.net",
+        "telefono": "+51 973 839 817"
+    },
+    {
+        "cliente_id": 81,
+        "nombre": "Candelario Amigó",
+        "ciudad": "Arequipa",
+        "email": "eloisa87@example.com",
+        "telefono": "+51 909 878 605"
+    },
+    {
+        "cliente_id": 82,
+        "nombre": "María Dolores Raya Prat",
+        "ciudad": "Cusco",
+        "email": "eroman@example.com",
+        "telefono": "+51 964 578 081"
+    },
+    {
+        "cliente_id": 83,
+        "nombre": "Jose Miguel Fernandez",
+        "ciudad": "Iquitos",
+        "email": "mugicaceferino@example.org",
+        "telefono": "+51 967 570 080"
+    },
+    {
+        "cliente_id": 84,
+        "nombre": "Nacho Hernandez Prieto",
+        "ciudad": "Cusco",
+        "email": "renato73@example.net",
+        "telefono": "+51 991 096 937"
+    },
+    {
+        "cliente_id": 85,
+        "nombre": "Moisés Alcalde Cornejo",
+        "ciudad": "Cusco",
+        "email": "duartefebe@example.com",
+        "telefono": "+51 927 458 994"
+    },
+    {
+        "cliente_id": 86,
+        "nombre": "Nuria Maza Cervantes",
+        "ciudad": "Piura",
+        "email": "margaritauria@example.com",
+        "telefono": "+51 954 807 328"
+    },
+    {
+        "cliente_id": 87,
+        "nombre": "Camilo Grau",
+        "ciudad": "Chiclayo",
+        "email": "prudencio29@example.org",
+        "telefono": "+51 925 855 568"
+    },
+    {
+        "cliente_id": 88,
+        "nombre": "Dalila Tomé Miranda",
+        "ciudad": "Cusco",
+        "email": "aragonjuliana@example.com",
+        "telefono": "+51 974 742 831"
+    },
+    {
+        "cliente_id": 89,
+        "nombre": "Nélida Guitart Abad",
+        "ciudad": "Arequipa",
+        "email": "sorianoremedios@example.net",
+        "telefono": "+51 915 447 843"
+    },
+    {
+        "cliente_id": 90,
+        "nombre": "Nereida Aguilera Alberola",
+        "ciudad": "Lima",
+        "email": "vherrera@example.org",
+        "telefono": "+51 974 593 569"
+    },
+    {
+        "cliente_id": 91,
+        "nombre": "Adelia Barceló Barco",
+        "ciudad": "Lima",
+        "email": "concepcion47@example.net",
+        "telefono": "+51 968 147 811"
+    },
+    {
+        "cliente_id": 92,
+        "nombre": "Jacinto Marin Cortina",
+        "ciudad": "Lima",
+        "email": "martiriomas@example.com",
+        "telefono": "+51 967 834 859"
+    },
+    {
+        "cliente_id": 93,
+        "nombre": "Angélica Santana Girona",
+        "ciudad": "Huancayo",
+        "email": "natalia50@example.com",
+        "telefono": "+51 989 472 532"
+    },
+    {
+        "cliente_id": 94,
+        "nombre": "Noelia Canals Esparza",
+        "ciudad": "Iquitos",
+        "email": "heliodoro79@example.net",
+        "telefono": "+51 936 147 794"
+    },
+    {
+        "cliente_id": 95,
+        "nombre": "Estefanía del Heredia",
+        "ciudad": "Huancayo",
+        "email": "eduardo19@example.com",
+        "telefono": "+51 932 763 388"
+    },
+    {
+        "cliente_id": 96,
+        "nombre": "Marina Perlita Ropero Barriga",
+        "ciudad": "Piura",
+        "email": "kgarate@example.org",
+        "telefono": "+51 903 273 619"
+    },
+    {
+        "cliente_id": 97,
+        "nombre": "Héctor Aranda-Ledesma",
+        "ciudad": "Iquitos",
+        "email": "ipacheco@example.org",
+        "telefono": "+51 946 268 221"
+    },
+    {
+        "cliente_id": 98,
+        "nombre": "Viviana Blasco Cerezo",
+        "ciudad": "Lima",
+        "email": "rllopis@example.org",
+        "telefono": "+51 952 812 973"
+    },
+    {
+        "cliente_id": 99,
+        "nombre": "Rosalía Gras Roselló",
+        "ciudad": "Huancayo",
+        "email": "griseldaverdejo@example.net",
+        "telefono": "+51 937 172 979"
+    },
+    {
+        "cliente_id": 100,
+        "nombre": "Nilo Poza Pellicer",
+        "ciudad": "Piura",
+        "email": "albinolarranaga@example.com",
+        "telefono": "+51 914 124 724"
+    }
+]
